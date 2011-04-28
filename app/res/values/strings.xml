@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickActionsDemo</string>
+
+    <!-- Strings for the main UI buttons -->
+    <string name="actions_one">Attach to button 1</string>
+    <string name="actions_two">Attach to button 2</string>
+    <string name="actions_three">Attach to button 3</string>
+
+    <!-- Strings for the buttons in the popup -->
+    <string name="action_one">One</string>
+    <string name="action_two">Two</string>
+    <string name="action_three">Three</string>
+    <string name="action_four">Four</string>
+</resources>
